@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,cAAe,CAChB,UAGC,qBAAwB","file":"main.bac66e85.chunk.css","sourcesContent":["button {\n  cursor: pointer;\n}\n\n.selected {\n  background-color: yellow;\n}\n"]}
